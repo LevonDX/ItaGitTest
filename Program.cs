@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace ItaGitTest
 {
+    // comment
     public class Program
     {
         public static void Main(string[] args)
